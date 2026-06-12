@@ -23,7 +23,9 @@ pip install -r requirements.txt
 export GOOGLE_API_KEY="your-free-gemini-key"
 ```
 
-`rank-bm25` gives you keyword scoring for hybrid search; `sentence-transformers` provides a cross-encoder if you choose reranking. Work in `advanced_rag.ipynb` or `.py`.
+`rank-bm25` gives you keyword scoring for hybrid search; `sentence-transformers` provides a cross-encoder if you choose reranking.
+
+> **No starter code — you build it from scratch.** There's no template in this repo; create your own working file(s) and write the code yourself. This close to the end of the bootcamp, scaffolding your own project is part of the exercise.
 
 ## Your Task
 
